@@ -1,1 +1,1 @@
-README: load-google-static-maps-api
+README: load-google-staticmaps-api
